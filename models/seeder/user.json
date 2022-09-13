@@ -1,27 +1,27 @@
 {
   "users": [
     {
-      "firstName": "Tony",
+      "first_name": "Tony",
       "email": "tony@stark.com",
       "password": "iamironman"
     },
     {
-      "firstName": "Steve",
+      "first_name": "Steve",
       "email": "captain@hotmail.com",
       "password": "icandothisallday"
     },
     {
-      "firstName": "Peter",
+      "first_name": "Peter",
       "email": "peter@parker.com",
       "password": "enajyram"
     },
     {
-      "firstName": "Natasha",
+      "first_name": "Natasha",
       "email": "natasha@gamil.com",
       "password": "*parol#@$!"
     },
     {
-      "firstName": "Nick",
+      "first_name": "Nick",
       "email": "nick@shield.com",
       "password": "password"
     }
